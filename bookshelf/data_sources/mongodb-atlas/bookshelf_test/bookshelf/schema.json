@@ -1,0 +1,50 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "amazonAverageRating": {
+            "bsonType": "double"
+        },
+        "amazonRatingsCount": {
+            "bsonType": "int"
+        },
+        "categories": {
+            "bsonType": "array",
+            "items": {
+                "bsonType": "string"
+            }
+        },
+        "description": {
+            "bsonType": "string"
+        },
+        "goodreadsAverageRating": {
+            "bsonType": "double"
+        },
+        "goodreadsRatingsCount": {
+            "bsonType": "int"
+        },
+        "isbn": {
+            "bsonType": "string"
+        },
+        "owned": {
+            "bsonType": "bool"
+        },
+        "price": {
+            "bsonType": "string"
+        },
+        "subtitle": {
+            "bsonType": "string"
+        },
+        "thumbnail": {
+            "bsonType": "string"
+        },
+        "title": {
+            "bsonType": "string"
+        },
+        "unread": {
+            "bsonType": "bool"
+        }
+    },
+    "title": "book"
+}

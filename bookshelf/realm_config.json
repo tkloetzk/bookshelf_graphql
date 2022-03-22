@@ -1,0 +1,8 @@
+{
+    "app_id": "bookshelf-xbsms",
+    "config_version": 20210101,
+    "name": "bookshelf",
+    "location": "US-VA",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}
